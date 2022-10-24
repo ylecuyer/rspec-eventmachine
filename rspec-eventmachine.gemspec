@@ -15,5 +15,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'eventmachine', '>= 0.12.0'
   s.add_dependency 'rspec', '>= 2.0', '< 4.0'
+  s.add_dependency 'sorted_set'
 end
 
